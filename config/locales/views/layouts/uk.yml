@@ -1,0 +1,19 @@
+uk:
+  layouts:
+    expires: Завершується
+    header:
+      home: Головна
+      share: Акція
+      e-mail: E-mail
+      rotating-banner: Топ Ротаційний Банер Тут
+      special-rotating: Спеціальний Ротаційний Банер Тут
+      not-rotating: Ротаційний Спеціальний Банер ("Банер" + "Опис")
+      name-project: Ваша Назва Проекту
+      project-description: Ваш Опис Проекту
+    left:
+      premium-listing: Преміум лістинг
+      ad-here: Ваша реклама тут
+  welcome:
+    index:
+      rotating-normal: Ротаційний Нормальний Банер
+    

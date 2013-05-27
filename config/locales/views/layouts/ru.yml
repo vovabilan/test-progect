@@ -1,0 +1,19 @@
+ru:
+  layouts:
+    expires: Истекает
+    header:
+      home: Главная
+      share: Акция
+      e-mail: E-mail
+      rotating-banner: Топ Ротационный Баннер Здесь
+      special-rotating: Специальный Ротационный Баннер Здесь
+      not-rotating: Ротационный Специальный Баннер ("Баннер" + "Текстовое Описание")
+      name-project: Ваше Имя Проекта
+      project-description: Ваше Описание Проекта
+    left:
+      premium-listing: Премиум листинг
+      ad-here: Ваша реклама здесь
+  welcome:
+    index:
+      rotating-normal: Ротационный Нормальный Баннер
+    

@@ -1,0 +1,20 @@
+en:
+  layouts:
+    expires: Expires
+    header:
+      home: Home
+      share: Share
+      e-mail: E-mail
+      rotating-banner: Top Rotating Banner Here
+      special-rotating: Special Rotating Banner Here
+      not-rotating: Rotating Special Banner ("Banner image" + "Description") Here
+      name-project: Your Name Project
+      project-description: Your Project Description
+    left:
+      premium-listing: Premium Listing
+      ad-here: Your ad here
+  welcome:
+    index:
+      rotating-normal: Rotating Normal Banner
+      
+    

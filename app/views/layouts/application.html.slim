@@ -1,0 +1,23 @@
+doctype html
+html
+  head
+    = stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true
+    = javascript_include_tag "application", "data-turbolinks-track" => true
+    = csrf_meta_tags
+
+  body
+    .container-fluid
+      .row-fluid
+        .span1
+        .span10.bord
+          = render 'layouts/header'
+          .row-fluid
+            .span3
+              = render 'layouts/left'
+            .span6
+              = yield
+            .span3
+              = render 'layouts/right'
+          = render 'layouts/footer'
+        .span1
+
