@@ -14,5 +14,4 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require paloma
-//= require bootstrap-datepicker
 //= require_tree .
