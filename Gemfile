@@ -19,17 +19,8 @@ gem 'slim-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
-# Use bootstrap-datepicker-rails in views
-gem 'bootstrap-datepicker-rails'
-gem 'less'
-gem 'therubyracer'
-
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', github: 'rails/coffee-rails'
-
-#simple way to execute page-specific javascript code
-#https://github.com/kbparagua/paloma
-gem 'paloma'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
