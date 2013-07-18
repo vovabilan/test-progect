@@ -1,5 +1,6 @@
-$('.nav').ready ->
+$('.nav.header-contacts').ready ->
   $('a').hover ->
     $(this).children('i').toggleClass "icon-white"
 
-$("#datepicker").datepicker()
+$ ->
+  $("[data-cat='date']").datetimepicker pickTime: false

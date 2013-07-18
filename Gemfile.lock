@@ -102,8 +102,6 @@ GEM
     minitest (4.7.3)
     multi_json (1.7.2)
     mysql2 (0.3.11)
-    paloma (2.0.3)
-      jquery-rails
     polyglot (0.3.3)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -153,7 +151,6 @@ DEPENDENCIES
   jbuilder (~> 1.0.1)
   jquery-rails
   mysql2
-  paloma
   rails!
   sass-rails!
   sdoc

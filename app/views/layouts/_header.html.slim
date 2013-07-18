@@ -45,45 +45,34 @@
             .row-fluid
                 a href="#" = t('.not-rotating')
             .row-fluid
+              .span2
               .span8
-                a target="_blank" href="#"
-                  img data-src="holder.js/728x90" src="/assets/banner728.gif"
-              .span4
-                span = t('.name-project')
-                .clearfix
-                span = t('.project-description')
-                .clearfix
-                font color="#FF0000" = t('layouts.expires')
-            .row-fluid
-              .span8
-                a target="_blank" href="#"
-                  img data-src="holder.js/728x90" src="/assets/banner728.gif"
-              .span4
-                span = t('.name-project')
-                .clearfix
-                span = t('.project-description')
-                .clearfix
-                font color="#FF0000" = t('layouts.expires')
-            .row-fluid
-              .span8
-                a target="_blank" href="#"
-                  img data-src="holder.js/728x90" src="/assets/banner728.gif"
-              .span4
-                span = t('.name-project')
-                .clearfix
-                span = t('.project-description')
-                .clearfix
-                font color="#FF0000" = t('layouts.expires')
-            .row-fluid
-              .span8
-                a target="_blank" href="#"
-                  img data-src="holder.js/728x90" src="/assets/banner728.gif"
-              .span4
-                span = t('.name-project')
-                .clearfix
-                span = t('.project-description')
-                .clearfix
-                font color="#FF0000" = t('layouts.expires')
+                #myCarousel.carousel.slide
+                  ol.carousel-indicators
+                    li.active data-slide-to="0" data-target="#myCarousel"
+                    li data-slide-to="1" data-target="#myCarousel"
+                    li data-slide-to="2" data-target="#myCarousel"
+                  /! Carousel items
+                  .carousel-inner
+                    .active.item
+                      img data-src="holder.js/468x60" src='/assets/870_500_fixedwidth.jpg'
+                      .carousel-caption
+                        h4 Name Project
+                        p Description
+                    .item
+                      img data-src="holder.js/468x60" src='/assets/870_500_fixedwidth (1).jpg'
+                      .carousel-caption
+                        h4 Name Project
+                        p Description
+                    .item
+                      img data-src="holder.js/468x60" src='/assets/870_500_fixedwidth (2).jpg'
+                      .carousel-caption
+                        h4 Name Project
+                        p Description
+                  /! Carousel nav
+                  a.carousel-control.left data-slide="prev" href="#myCarousel" &lsaquo;
+                  a.carousel-control.right data-slide="next" href="#myCarousel" &rsaquo;
+              .span2
             .row-fluid
               .span8
                 a target="_blank" href="#"

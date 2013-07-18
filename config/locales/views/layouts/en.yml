@@ -5,9 +5,9 @@ en:
       home: Home
       share: Share
       e-mail: E-mail
-      rotating-banner: Top Rotating Banner Here
-      special-rotating: Special Rotating Banner Here
-      not-rotating: Rotating Special Banner ("Banner image" + "Description") Here
+      rotating-banner: Top Rotating Banner Add Here
+      special-rotating: Special Rotating Banner Add Here
+      not-rotating: Rotating Special Banner ("Banner image" + "Description") Add Here
       name-project: Your Name Project
       project-description: Your Project Description
     left:
@@ -16,5 +16,5 @@ en:
   welcome:
     index:
       rotating-normal: Rotating Normal Banner
-      
+      ad-here: Your ad here
     
