@@ -5,9 +5,9 @@ uk:
       home: Головна
       share: Акція
       e-mail: E-mail
-      rotating-banner: Топ Ротаційний Банер Тут
-      special-rotating: Спеціальний Ротаційний Банер Тут
-      not-rotating: Ротаційний Спеціальний Банер ("Банер" + "Опис")
+      rotating-banner: Топ Ротаційний Банер Додати Сюди
+      special-rotating: Спеціальний Ротаційний Банер Додати Сюди
+      not-rotating: Ротаційний Спеціальний Банер ("Банер" + "Опис") Додати Сюди
       name-project: Ваша Назва Проекту
       project-description: Ваш Опис Проекту
     left:
@@ -16,4 +16,4 @@ uk:
   welcome:
     index:
       rotating-normal: Ротаційний Нормальний Банер
-    
+      ad-here: Ваша реклама тут

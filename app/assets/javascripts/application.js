@@ -13,5 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require paloma
+//= require bootstrap-transition.js
+//= require bootstrap-carousel.js
 //= require_tree .
